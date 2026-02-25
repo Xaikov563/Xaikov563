@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xaikov! 2nd year college.
+- 👋 Hi, I’m Xaikov! 3rd year college 2nd Semester.
 - 👀 I’m interested in Video Games and Programming
 - 🌱 I’m currently learning Java, Python, HTML, CSS, and JavaScript 
 - 💞️ I’m looking to collaborate on websites and other stuffs
